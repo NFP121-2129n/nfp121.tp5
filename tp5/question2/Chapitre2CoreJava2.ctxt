@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Chapitre2CoreJava2
+comment1.params=
+comment1.target=java.util.List\ listeDesMots()
+comment2.params=liste
+comment2.target=java.util.Map\ occurrencesDesMots(java.util.List)
+numComments=3

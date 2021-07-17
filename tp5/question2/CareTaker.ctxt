@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CareTaker
+comment1.params=m
+comment1.target=void\ add(Memento)
+comment2.params=
+comment2.target=Memento\ rollBack()
+numComments=3

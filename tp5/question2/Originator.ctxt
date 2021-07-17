@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Originator
+comment1.params=liste
+comment1.target=void\ setListe(java.util.List)
+comment2.params=occurences
+comment2.target=void\ setOccurrences(java.util.Map)
+comment3.params=
+comment3.target=java.util.List\ getListe()
+comment4.params=
+comment4.target=java.util.Map\ getOccurrences()
+comment5.params=
+comment5.target=Memento\ saveToMemento()
+comment6.params=memento
+comment6.target=void\ getStateFromMemento(Memento)
+numComments=7
